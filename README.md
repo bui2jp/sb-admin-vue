@@ -1,5 +1,9 @@
 # vue-sb-admin
 
+Vueでsb-admin-2を利用する
+
+https://startbootstrap.com/theme/sb-admin-2
+
 ```
 % node -v 
 v10.22.1
